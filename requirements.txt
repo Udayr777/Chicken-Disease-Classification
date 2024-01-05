@@ -1,0 +1,19 @@
+# adding all the libraries and tools, so that for later can install
+# directly from this requirements.txt
+
+tensorflow
+pandas
+dvc
+notebook
+matplotlib
+seaborn
+python-box==6.0.2
+pyYAML
+tqdm
+ensure==1.0.2
+joblib
+types-pyYAML
+scipy
+Flask
+Flask-Cors
+-e .
